@@ -113,3 +113,17 @@ p pat(1)      # => [:range, 1]
 p pat(-1)     # => [:range, -1]
 p pat(100000) # => [:class, 100000]
 p pat("1")    # => nothing
+
+def empty_hash(val)
+  case val
+    in {}
+      :empty
+  else
+      :else
+  end
+end
+
+p "-" * 10
+p empty_hash({})     # => :empty
+p empty_hash({a: 1}) # => :else
+
