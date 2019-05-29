@@ -5,6 +5,9 @@
 参考
 - https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7
 - https://developer.feedforce.jp/entry/2019/05/17/110000
+- https://makicamel.hatenablog.com/entry/2019/05/07/044027
+- https://medium.com/@baweaver/ruby-2-7-pattern-matching-first-impressions-cdb93c6246e6
+- https://medium.com/@baweaver/ruby-2-7-pattern-matching-destructuring-on-point-90f56aaf7b4e
 
 # 準備
 
